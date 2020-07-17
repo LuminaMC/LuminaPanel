@@ -1,5 +1,5 @@
 
-# Plugins de Lumina
+# LuminaPanel
 
   
 
