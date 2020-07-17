@@ -62,9 +62,9 @@ Dans le cadre de Lumina, LuminaPanel se base sur les infos suivantes :
 Bien que LuminaPanel pourrait fonctionner avec d'autres éléments, il reste pensé pour ceux-ci. Le panel risque donc d'être non-fonctionnel sans eux.
 Les différents éléments qui ne sont pas encore opensource seront bientôt disponibles.
 
-####Configuration
+##Configuration
 
 - Importer la base SQL (fichier panel.sql) dans votre système MySQL
 - Procéder aux renseignements des différentes BDD dans _application/config/database.php_
-- Il vous sera nécessaire de créer manuellement un utilisateur dans la BDD du panel. Le hash du mot de passe est en BCrypt. Considérez ça comme une épreuve ;)
+- Il vous sera nécessaire de créer manuellement un utilisateur dans la BDD du panel. Le hash du mot de passe est en BCrypt. Vous pouvez mettre ce que voulez dans rank. Considérez ça comme une épreuve ;)
 
