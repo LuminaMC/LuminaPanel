@@ -55,6 +55,7 @@ Dans le cadre de Lumina, LuminaPanel se base sur les infos suivantes :
 
 - Plugin de money de Lumina (Développé par ByToByX et disponible en opensource)
 - Plugin de permissions LuckPerms
+- Plugin de sanctions AdvancedBan
 - Système des candidatures de Lumina (Développé par Groupe Fyroeo, pas encore disponible en opensource)
 - Différentes API internes (Développé par Groupe Fyroeo, pas encore disponible en opensource)
 - API externes publiques.
