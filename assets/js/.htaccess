@@ -1,0 +1,3 @@
+SetEnv CI_ENV development
+
+Header add Service-Worker-Allowed "/"
